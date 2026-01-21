@@ -12,5 +12,8 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.0"
   }
 }
